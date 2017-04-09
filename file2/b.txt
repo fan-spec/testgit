@@ -1,3 +1,0 @@
-bbbbb
-test for remote repository push!
-test for temp modify?
